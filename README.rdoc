@@ -1,0 +1,11 @@
+
+= SixArm Ruby Gem: Active Record UUID
+
+Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
+Copyright:: Copyright (c) 2010 Joel Parker Henderson
+License:: CreativeCommons License, Non-commercial Share Alike
+License:: LGPL, GNU Lesser General Public License
+
+Enable Active Record models to use a UUID for the id field,
+by creating a UUID in the Active Record before_save method.
+

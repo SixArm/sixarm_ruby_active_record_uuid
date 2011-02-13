@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_active_record_uuid"
-  s.summary           = "SixArm Ruby Gem: Active Record UUID to set a model's id before save"
+  s.summary           = "SixArm.com » Ruby » Active Record UUID to set a model's id before save"
   s.version           = "1.0.0"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"

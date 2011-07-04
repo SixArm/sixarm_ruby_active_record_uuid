@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 =begin rdoc
 
 = SixArm.com » Ruby » Active Record UUID module to use UUID for ActiveRecord id
@@ -15,12 +16,12 @@ Based on "Using UUID/GUID as Primary Key in Rails" by Paul Dix:
 http://codesnipers.com/?q=node/143&title=using-uuid/guid-as-primary-key-in-rails
 
 
-@example 
+@example
 
   class Item < ActiveRecord::Base
     include ActiveRecordUUID
   end
-  
+
 =end
 
 module ActiveRecordUUID

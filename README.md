@@ -1,7 +1,7 @@
 # SixArm.com » Ruby » <br> ActiveRecordUUID module to use UUID for ActiveRecord id
 
-
-* Docs: <http://sixarm.com/sixarm_ruby_active_record_uuid/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_active_record_uuid/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_active_record_uuid>
 * Repo: <http://github.com/sixarm/sixarm_ruby_active_record_uuid>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 

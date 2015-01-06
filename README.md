@@ -44,7 +44,7 @@ To enable high security for all our gems:
 
 To install with high security:
 
-    gem install sixarm_ruby_active_record_uuid --test --trust-policy HighSecurity
+    gem install sixarm_ruby_active_record_uuid --trust-policy HighSecurity
 
 
 ## Example 

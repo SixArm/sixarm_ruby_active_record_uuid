@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_active_record_uuid"
-  s.summary           = "SixArm.com » Ruby » Active Record UUID"
+  s.summary           = "SixArm.com → Ruby → Active Record UUID"
   s.description       = "Active Record UUID to set a model's id before save"
   s.version           = "1.0.2"
 

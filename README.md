@@ -3,7 +3,7 @@
 * Doc: <http://sixarm.com/sixarm_ruby_active_record_uuid/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_active_record_uuid>
 * Repo: <http://github.com/sixarm/sixarm_ruby_active_record_uuid>
-<!--HEADER-SHUT-->
+<!--header-shut-->
 
 
 ## Introduction
@@ -19,7 +19,7 @@ For docs go to <http://sixarm.com/sixarm_ruby_active_record_uuid/doc>
 Want to help? We're happy to get pull requests.
 
 
-<!--INSTALL-OPEN-->
+<!--install-opent-->
 
 ## Install
 
@@ -41,7 +41,7 @@ To require the gem in your code:
 
     require "sixarm_ruby_active_record_uuid"
 
-<!--INSTALL-SHUT-->
+<!--install-shut-->
 
 
 ## Example

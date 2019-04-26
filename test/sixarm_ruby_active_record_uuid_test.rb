@@ -4,6 +4,6 @@ require "simplecov"
 SimpleCov.start
 require "sixarm_ruby_active_record_uuid"
 
-class ActiveRecordUUIDTest < Test::Unit::TestCase
+class ActiveRecordUUIDTest < Minitest::Test
 
 end
